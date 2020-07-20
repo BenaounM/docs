@@ -25,7 +25,7 @@ Causes the compiler to accept only syntax that is included in the chosen C# lang
 
 The following values are valid:
 
-[!INCLUDE [lang-versions-table](../includes/langversion-table.md)]
+[lang-versions-table](../includes/langversion-table.md)
 
 The default language version depends on the target framework for your application and the version of the SDK or Visual Studio installed. Those rules are defined in the [configuring the language version](../configure-language-version.md#defaults) article.
 
